@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gson">
+    <CLASSES>
+      <root url="file://D:/Downloads/google-gson-1.7.1-release/google-gson-1.7.1" />
+      <root url="file://D:/Downloads/google-gson-1.7.1-release/google-gson-1.7.1" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Downloads/google-gson-1.7.1-release/google-gson-1.7.1/gson-1.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://D:/Downloads/google-gson-1.7.1-release/google-gson-1.7.1" recursive="false" />
+  </library>
+</component>
